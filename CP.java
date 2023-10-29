@@ -1,5 +1,4 @@
-package com.journal.entry;
-
+package journalentry;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
